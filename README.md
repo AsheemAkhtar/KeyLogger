@@ -1,1 +1,1 @@
-# KeyLogger
+This keylogger is a type of software written in the Python programming language designed to record keystrokes made by a user on their computer. Keyloggers can be used for various purposes, including monitoring computer usage, recovering lost passwords.
